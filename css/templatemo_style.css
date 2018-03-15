@@ -321,15 +321,14 @@ p {
 #about .first-service {
   background-color: rgba(242, 116, 95, 0.75);
 }
-#about .first-service:hover{
-  background-color: rgba(242, 116, 95, 1);
-}
 #about .second-service {
   background-color: rgba(54, 62, 80, 0.75);
 }
-
 #about .third-service {
   background-color: rgba(70, 186, 226, 0.75);
+}
+#about .first-service:hover{
+  background-color: rgba(242, 116, 95, 1);
 }
 
 #about .service-item .icon {
