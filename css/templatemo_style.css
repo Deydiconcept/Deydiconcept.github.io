@@ -329,8 +329,16 @@ p {
 }
 #about .first-service:hover{
   background-color: rgba(242, 116, 95, 1);
+  cursor:pointer;
 }
-
+#about .second-service:hover {
+  background-color: rgba(54, 62, 80, 1);
+  cursor:pointer;
+}
+#about .third-service:hover {
+  background-color: rgba(70, 186, 226, 1);
+  cursor:pointer;
+}
 #about .service-item .icon {
   width: 70px;
   height: 70px;
